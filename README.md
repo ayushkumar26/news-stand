@@ -1,13 +1,15 @@
-# Project Name
+## News Stand
 
-> Pithy project description
+> The goal of News Stand is to provide users a clean, all-in-one place to find, consume, and comment on the news. News sites are fragmented and RSS feeds don’t allow users to comment, so we want to combine the two.
+
+> Our project is built using the MERN stack.
 
 ## Team
 
-  - teamMember
-  - teamMember
-  - teamMember
-  - teamMember
+  - Katherine Manning
+  - Patrick Miner
+  - Ayush Kumar
+  - Danny Welstad
 
 ## Table of Contents
 
@@ -21,15 +23,23 @@
 
 ## Usage
 
-> Some usage instructions
+- Clone
+> git clone https://github.com/news-stand/news-stand
+
+- Install Dependencies
+> npm intall
+
+- Start
+> npm run start(?)
+
 
 ## Requirements
 
-- Node 6.4.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
+- node 6.4.x
+- mongodb
+- body-parser
+- mongoose
+
 
 ## Development
 
@@ -38,16 +48,14 @@
 From within the root directory:
 
 ```sh
-npm install -g bower
 npm install
-bower install
 ```
 
 ### Roadmap
 
-View the project roadmap [here](LINK_TO_DOC)
+View the project roadmap [here](https://docs.google.com/document/d/1lz--RxE-sTt_9faC1WhdDpPa4LweuFcabv9QsFsDbwo/edit?usp=sharing)
 
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+See [CONTRIBUTING.md](https://github.com/news-stand/news-stand/blob/master/CONTRIBUTING.md) for contribution guidelines.
